@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tempCalculator</string>
+    <string name="et_inputTemp">Temperature</string>
+    <string name = "rb_celcius" >Celcius</string>
+    <string name = "rb_fahrenhite" >Fahrenhite</string>
+    <string name="btn_calculate">Calculate</string>
+</resources>
